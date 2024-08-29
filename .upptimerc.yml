@@ -25,7 +25,7 @@ status-website:
   logoUrl: https://i.imgur.com/IqpRoiH.png
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample RFUMS status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This dashboard displays status information for all critical services at Rosalind Franklin University of Medicine and Science. On weekends, ITS regularly performs system and network maintenance. The dashboard will be updated whenever status information for any service changes. Please check back at any time to obtain current status information.
   navbar:
     - title: Status
       href: /

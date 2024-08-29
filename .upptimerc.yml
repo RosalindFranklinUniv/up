@@ -27,10 +27,12 @@ status-website:
   introTitle: "Welcome to the Rosalind Franklin University of Medicine and Science Service Status Page"
   introMessage: This dashboard displays status information for all critical services at Rosalind Franklin University of Medicine and Science. On weekends, ITS regularly performs system and network maintenance. The dashboard will be updated whenever status information for any service changes. Please check back at any time to obtain current status information.
   navbar:
-    - title: Status
-      href: /
+    #- title: Status
+    #  href: /
+    - title: Helixnet
+      href: https://helixnet.rosalindfranklin.edu
     #- title: GitHub
-    #  href: https://github.com/$OWNER/$REPO
+    #  href: https://github.com/$OWNER/$REPO    
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

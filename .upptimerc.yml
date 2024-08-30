@@ -87,7 +87,7 @@ status-website:
   name: RFUMS System Statuses
   themeUrl: https://github.com/w6cC5cP74g9c/up/blob/1e803b633b367c49c0a476784a9099b3c12d41d6/assets/my-custom-theme.css
   introTitle: "Welcome to the Rosalind Franklin University of Medicine and Science Service Status Page"
-  i18n:  footer: This page is an [open source]($REPO), powered by [Upptime](https://upptime.js.org)  
+  footer: This page is an [open source]($REPO), powered by [Upptime](https://upptime.js.org)  
   introMessage: This dashboard displays status information for all critical services at Rosalind Franklin University of Medicine and Science. On weekends, ITS regularly performs system and network maintenance. The dashboard will be updated whenever status information for any service changes. Please check back at any time to obtain current status information.
   navbar:
     #- title: Status

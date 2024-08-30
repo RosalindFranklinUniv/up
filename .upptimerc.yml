@@ -100,7 +100,7 @@ status-website:
     #- title: GitHub
     #  href: https://github.com/$OWNER/$REPO    
 i18n:  
-  footer: This page is an [open source]($REPO), powered by [Upptime](https://upptime.js.org)    
+  footer: To report an incident, contact the [Rosalind Franklin University HelpDesk](https://support.rosalindfranklin.edu/?format=portal)    
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

@@ -13,30 +13,30 @@ sites:
     url: https://www.rosalindfranklin.edu/Library/
   - name: CastleBranch
     url: https://discover.castlebranch.com/    
-  - name: Cobblestone
-    url: https://rosalindfranklin.cobblestone.software/
+  #- name: Cobblestone
+  #  url: https://rosalindfranklin.cobblestone.software/
   - name: COI Smart
     url: https://rosalindfranklin.coi-smart.com/
   - name: D2L Brightspace
     url: https://d2l.rosalindfranklin.edu/d2l/home
   - name: Engage
     url: https://rosalindfranklin.campuslabs.com/engage
-  - name: Examsoft
-    url: https://ei.examsoft.com/GKWeb/login/rosalindfranklin
+  #- name: Examsoft
+  #  url: https://ei.examsoft.com/GKWeb/login/rosalindfranklin
   - name: Exxat PRISM
     url: https://auth.rosalindfranklin.edu/auth/realms/rfu/protocol/saml/clients/ExxatPRISM 
   - name: Exxat V.3
     url: https://apps.exxat.com/Fusion/Account/Login?ReturnUrl=%2f 
-  - name: Google Employee Email
-    url: https://mail.google.com/ 
-  - name: Google Student Email
-    url: https://mail.google.com/ 
+  #- name: Google Employee Email
+  #  url: https://mail.google.com/ 
+  #- name: Google Student Email
+  #  url: https://mail.google.com/ 
   - name: Helixcard WebPay
     url: https://webpay.rosalindfranklin.edu/webdeposit/
   - name: IM Leagues
     url: https://www.imleagues.com/SSOSignUp.aspx
-  - name: InSite
-    url: https://insite.rosalindfranklin.edu/Pages/Default-New.aspx 
+  #- name: InSite
+  #  url: https://insite.rosalindfranklin.edu/Pages/Default-New.aspx 
   - name: Interfolio
     url: https://home.interfolio.com/14700
   - name: ITS Help Desk
@@ -53,20 +53,20 @@ sites:
     url: https://rosalindfranklin.hosted.panopto.com/ 
   - name: Poll Everywhere
     url: https://id.polleverywhere.com/ 
-  - name: Qualtrics
-    url: https://rosalindfranklin.qualtrics.com/homepage/ui 
+  #- name: Qualtrics
+  #  url: https://rosalindfranklin.qualtrics.com/homepage/ui 
   - name: Risk Management
     url: https://www.lossfreerx.com/
   - name: SAP Concur
     url: https://us2.concursolutions.com/home
   - name: Self-Service
     url: https://selfservice.rosalindfranklin.edu/Student/Account/Login
-  - name: Slate
-    url: https://apply.rosalindfranklin.edu/manage/
+  #- name: Slate
+  #  url: https://apply.rosalindfranklin.edu/manage/
   - name: Tutoring Appointments
     url: https://rfu.mywconline.com/register
-  - name: WebPrint (LRC)
-    url: https://webprint.rosalindfranklin.edu:2443/login
+  #- name: WebPrint (LRC)
+  #  url: https://webprint.rosalindfranklin.edu:2443/login
   - name: Workday
     url: https://login.adaptiveinsights.com/
   - name: Zoom

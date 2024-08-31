@@ -436,19 +436,19 @@
     "url": "https://login.adaptiveinsights.com/",
     "icon": "https://icons.duckduckgo.com/ip3/login.adaptiveinsights.com.ico",
     "slug": "workday",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 510,
-    "timeDay": 510,
-    "timeWeek": 510,
-    "timeMonth": 510,
-    "timeYear": 510,
+    "status": "up",
+    "uptime": "92.26%",
+    "uptimeDay": "92.26%",
+    "uptimeWeek": "92.26%",
+    "uptimeMonth": "92.26%",
+    "uptimeYear": "92.26%",
+    "time": 515,
+    "timeDay": 515,
+    "timeWeek": 515,
+    "timeMonth": 515,
+    "timeYear": 515,
     "dailyMinutesDown": {
-      "2024-08-31": 0
+      "2024-08-31": 67
     }
   },
   {

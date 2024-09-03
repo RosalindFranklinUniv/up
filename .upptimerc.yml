@@ -84,7 +84,7 @@ status-website:
   #baseUrl: /up
   logoUrl: https://raw.githubusercontent.com/w6cC5cP74g9c/up/master/RFUMS_seal_rgb.png
   #theme: dark
-  themeurl: https://uptime.rosalindfranklin.edu/my-custom-theme.css 
+  #themeurl: https://uptime.rosalindfranklin.edu/my-custom-theme.css 
   name: RFUMS System Statuses
   introTitle: "Welcome to the Rosalind Franklin University of Medicine and Science Service Status Page"
   introMessage: This dashboard displays status information for all critical services at Rosalind Franklin University of Medicine and Science. On weekends, ITS regularly performs system and network maintenance. The dashboard will be updated whenever status information for any service changes. Please check back at any time to obtain current status information.
@@ -101,6 +101,7 @@ status-website:
     #  href: https://github.com/$OWNER/$REPO    
 i18n:  
   footer: To report an incident, contact the [Rosalind Franklin University HelpDesk](https://support.rosalindfranklin.edu/?format=portal)    
-
+status-page:
+    theme: "light"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

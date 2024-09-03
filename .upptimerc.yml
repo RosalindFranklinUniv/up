@@ -107,7 +107,7 @@ status-website:
     #  href: https://github.com/$OWNER/$REPO    
 i18n:  
   footer: To report an incident, contact the [Rosalind Franklin University HelpDesk](https://support.rosalindfranklin.edu/?format=portal)    
-status-page:
-    theme: "light"
+#status-page:
+#    theme: "light"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

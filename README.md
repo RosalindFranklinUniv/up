@@ -1,4 +1,4 @@
-# [📈 Live Status](https://w6cC5cP74g9c.github.io/up): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](](https://uptime.rosalindfranklin.edu/): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [w6cC5cP74g9c](https://w6cC5cP74g9c.github.io/up), powered by [Upptime](https://github.com/upptime/upptime).
 

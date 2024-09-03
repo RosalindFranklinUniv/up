@@ -83,6 +83,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.rosalindfranklin.edu
+  css: ".graph { visibility: hidden; }"
   #baseUrl: /up
   logoUrl: https://raw.githubusercontent.com/w6cC5cP74g9c/up/master/RFUMS_seal_rgb.png
   favicon: https://raw.githubusercontent.com/w6cC5cP74g9c/up/master/RFUMS_seal_rgb.png

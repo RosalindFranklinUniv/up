@@ -27,6 +27,8 @@ sites:
     url: https://auth.rosalindfranklin.edu/auth/realms/rfu/protocol/saml/clients/ExxatPRISM 
   - name: Exxat V.3
     url: https://apps.exxat.com/Fusion/Account/Login?ReturnUrl=%2f 
+  - name: Test System Down
+    url: https://apps.estestsystemdownxxat.com/Fusion/Account/Login?ReturnUrl=%2f     
   #- name: Google Employee Email
   #  url: https://mail.google.com/ 
   #- name: Google Student Email

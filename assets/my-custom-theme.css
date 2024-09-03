@@ -24,3 +24,7 @@
   --graph-opacity: 1;
   --graph-filter: hue-rotate(34deg) saturate(164%) brightness(89%);
 }
+
+.chartjs-render-monitor {
+    filter: hue-rotate(34deg) saturate(164%) brightness(89%);
+}

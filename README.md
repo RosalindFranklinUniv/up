@@ -1,6 +1,6 @@
 # [📈 Live Status](](https://uptime.rosalindfranklin.edu/): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [w6cC5cP74g9c](uptime.rosalindfranklin.edu), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [RFUMS](https://uptime.rosalindfranklin.edu), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/w6cC5cP74g9c/up/workflows/Uptime%20CI/badge.svg)](https://github.com/w6cC5cP74g9c/up/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/w6cC5cP74g9c/up/workflows/Response%20Time%20CI/badge.svg)](https://github.com/w6cC5cP74g9c/up/actions?query=workflow%3A%22Response+Time+CI%22)

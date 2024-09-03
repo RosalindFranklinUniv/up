@@ -83,7 +83,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /up
   logoUrl: https://raw.githubusercontent.com/w6cC5cP74g9c/up/master/RFUMS_seal_rgb.png
-  theme: dark
+  #theme: dark
   name: RFUMS System Statuses
   themeurl: https://raw.githubusercontent.com/RosalindFranklinUniv/up/master/assets/my-custom-theme.css
   introTitle: "Welcome to the Rosalind Franklin University of Medicine and Science Service Status Page"

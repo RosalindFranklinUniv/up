@@ -67,7 +67,7 @@ sites:
     url: https://rfu.mywconline.com/register
   #- name: WebPrint (LRC)
   #  url: https://webprint.rosalindfranklin.edu:2443/login
-  - name: Workday
+  - name: Workday 
     url: https://login.adaptiveinsights.com/
   - name: Zoom
     url: https://rosalindfranklin.zoom.us/     

@@ -83,6 +83,7 @@ status-website:
   cname: uptime.rosalindfranklin.edu
   #baseUrl: /up
   logoUrl: https://raw.githubusercontent.com/w6cC5cP74g9c/up/master/RFUMS_seal_rgb.png
+  favicon: https://raw.githubusercontent.com/w6cC5cP74g9c/up/master/RFUMS_seal_rgb.png
   #theme: dark
   #themeurl: https://uptime.rosalindfranklin.edu/my-custom-theme.css 
   links:

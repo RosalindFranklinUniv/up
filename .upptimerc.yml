@@ -94,7 +94,7 @@ status-website:
   cname: uptime.rosalindfranklin.edu
   #css: "body { opacity: 0.5 }"
   #css: "graph { opacity: 0.0 }"  
-  theme: ocean
+  theme: dark
   #css: ".live-status .graph { visibility: hidden; }"
   #css: |
   #  article.svelte-fqsq6s.svelte-fqsq6s.svelte-fqsq6s {

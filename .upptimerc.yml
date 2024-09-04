@@ -84,10 +84,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.rosalindfranklin.edu
   #css: ".live-status .graph { visibility: hidden; }"
-  css: |
-    article.svelte-fqsq6s.svelte-fqsq6s.svelte-fqsq6s {
-      filter: grayscale(100%);
-    }  
+  #css: |
+  #  article.svelte-fqsq6s.svelte-fqsq6s.svelte-fqsq6s {
+  #    filter: grayscale(100%);
+  #  }  
   #css: |
   #  article.svelte-fqsq6s.svelte-fqsq6s.svelte-fqsq6s {
   #    visibility: hidden;

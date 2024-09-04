@@ -21,7 +21,19 @@
   --submit-button-border-color: #1a46ad;
   --submit-button-background-color: #3867d6;
   --submit-button-color: #ffffff;
-  --graph-opacity: -100;
-  --graph-filter: opacity(0%);
+  --graph-opacity: 1;
+  --graph-filter: hue-rotate(34deg) saturate(164%) brightness(89%);
 }
 
+article.down {
+  border-left: 0.4rem solid;
+}
+article.degraded {
+  border-left: 0.4rem solid;
+}
+article.up {
+  border-left: 0.4rem solid;
+}
+.chartjs-render-monitor {
+    filter: hue-rotate(34deg) saturate(164%) brightness(89%);
+}

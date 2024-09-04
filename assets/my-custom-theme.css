@@ -22,7 +22,7 @@
   --submit-button-background-color: #3867d6;
   --submit-button-color: #ffffff;
   --graph-filter: brightness(0%);
+}
   .chartjs-render-monitor {
     filter: brightness(0%);
-}
 }

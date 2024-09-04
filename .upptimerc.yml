@@ -94,7 +94,7 @@ status-website:
   cname: uptime.rosalindfranklin.edu
   #css: "body { opacity: 0.5 }"
   #css: "graph { opacity: 0.0 }"  
-  theme: dark
+  #theme: dark
   #css: ".live-status .graph { visibility: hidden; }"
   #css: |
   #  article.svelte-fqsq6s.svelte-fqsq6s.svelte-fqsq6s {
@@ -112,9 +112,9 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/w6cC5cP74g9c/up/master/RFUMS_seal_rgb.png
   favicon: https://raw.githubusercontent.com/w6cC5cP74g9c/up/master/RFUMS_seal_rgb.png
   #theme: dark
-  #themeurl: https://uptime.rosalindfranklin.edu/my-custom-theme.css 
-  #links:
-  #  - rel: stylesheet
+  themeurl: https://uptime.rosalindfranklin.edu/my-custom-theme.css 
+  links:
+    - rel: stylesheet
   #    href: https://uptime.rosalindfranklin.edu/my-custom-theme.css
   name: RFUMS System Statuses
   introTitle: "Welcome to the Rosalind Franklin University of Medicine and Science System Status Page"

@@ -21,8 +21,8 @@
   --submit-button-border-color: #1a46ad;
   --submit-button-background-color: #3867d6;
   --submit-button-color: #ffffff;
-  --graph-filter: brightness(0%);
+  --graph-filter: hue-rotate(34deg);
 }
   .chartjs-render-monitor {
-    filter: brightness(0%);
+    filter: hue-rotate(34deg);
 }

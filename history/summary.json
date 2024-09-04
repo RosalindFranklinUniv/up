@@ -196,7 +196,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-04": 20,
+      "2024-09-04": 103,
       "2024-09-03": 225
     }
   },
@@ -458,11 +458,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.adaptiveinsights.com.ico",
     "slug": "workday",
     "status": "up",
-    "uptime": "98.95%",
+    "uptime": "98.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "98.95%",
-    "uptimeYear": "98.95%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "98.96%",
     "time": 422,
     "timeDay": 408,
     "timeWeek": 422,

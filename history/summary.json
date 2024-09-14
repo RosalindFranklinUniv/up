@@ -4,19 +4,19 @@
     "url": "https://selfservice.rosalindfranklin.edu/Student/Account/Login",
     "icon": "https://icons.duckduckgo.com/ip3/selfservice.rosalindfranklin.edu.ico",
     "slug": "rosalind-franklin-university-network",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 366,
-    "timeDay": 1144,
-    "timeWeek": 568,
-    "timeMonth": 366,
-    "timeYear": 366,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 363,
+    "timeDay": 818,
+    "timeWeek": 523,
+    "timeMonth": 363,
+    "timeYear": 363,
     "dailyMinutesDown": {
-      "2024-09-14": 0
+      "2024-09-14": 23
     }
   },
   {
@@ -198,7 +198,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 371,
+      "2024-09-14": 393,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,

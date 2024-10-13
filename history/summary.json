@@ -198,7 +198,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-13": 379,
+      "2024-10-13": 398,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
@@ -305,19 +305,19 @@
     "url": "https://support.rosalindfranklin.edu/?format=portal",
     "icon": "https://icons.duckduckgo.com/ip3/support.rosalindfranklin.edu.ico",
     "slug": "its-help-desk",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1139,
-    "timeDay": 640,
-    "timeWeek": 963,
-    "timeMonth": 1031,
-    "timeYear": 1139,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 1135,
+    "timeDay": 629,
+    "timeWeek": 924,
+    "timeMonth": 1018,
+    "timeYear": 1135,
     "dailyMinutesDown": {
-      "2024-10-13": 0
+      "2024-10-13": 19
     }
   },
   {

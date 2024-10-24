@@ -198,7 +198,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-24": 1166,
+      "2024-10-24": 1240,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
@@ -464,19 +464,19 @@
     "url": "https://us2.concursolutions.com/home",
     "icon": "https://icons.duckduckgo.com/ip3/us2.concursolutions.com.ico",
     "slug": "sap-concur",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 545,
     "timeDay": 461,
     "timeWeek": 488,
     "timeMonth": 561,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2024-10-24": 9
+      "2024-10-24": 0
     }
   },
   {

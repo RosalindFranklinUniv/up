@@ -61,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rosalindfranklin.edu.ico",
     "slug": "boxer-library",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 227,
     "timeDay": 262,
     "timeWeek": 281,
     "timeMonth": 302,
     "timeYear": 227,
-    "dailyMinutesDown": {
-      "2024-10-23": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CastleBranch",
@@ -200,7 +198,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-23": 1411,
+      "2024-10-24": 108,
+      "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,

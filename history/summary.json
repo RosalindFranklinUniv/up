@@ -200,7 +200,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-14": 230,
+      "2024-11-14": 236,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
@@ -469,19 +469,19 @@
     "url": "https://www.lossfreerx.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.lossfreerx.com.ico",
     "slug": "risk-management",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 362,
-    "timeDay": 121,
-    "timeWeek": 373,
-    "timeMonth": 353,
-    "timeYear": 362,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 387,
+    "timeDay": 2284,
+    "timeWeek": 882,
+    "timeMonth": 481,
+    "timeYear": 387,
     "dailyMinutesDown": {
-      "2024-11-14": 0
+      "2024-11-14": 6
     }
   },
   {

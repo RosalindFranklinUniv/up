@@ -200,7 +200,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-20": 929,
+      "2024-11-20": 940,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
@@ -439,19 +439,19 @@
     "url": "https://rosalindfranklin.hosted.panopto.com/",
     "icon": "https://icons.duckduckgo.com/ip3/rosalindfranklin.hosted.panopto.com.ico",
     "slug": "panopto",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 439,
-    "timeDay": 157,
-    "timeWeek": 242,
-    "timeMonth": 402,
-    "timeYear": 439,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 470,
+    "timeDay": 2068,
+    "timeWeek": 870,
+    "timeMonth": 568,
+    "timeYear": 470,
     "dailyMinutesDown": {
-      "2024-11-20": 0
+      "2024-11-20": 11
     }
   },
   {

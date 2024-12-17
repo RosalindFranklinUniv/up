@@ -200,7 +200,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-17": 118,
+      "2024-12-17": 650,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
@@ -334,9 +334,9 @@
     "url": "https://www.imleagues.com/SSOSignUp.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/www.imleagues.com.ico",
     "slug": "im-leagues",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -346,6 +346,7 @@
     "timeMonth": 1247,
     "timeYear": 968,
     "dailyMinutesDown": {
+      "2024-12-17": 0,
       "2024-09-04": 8
     }
   },

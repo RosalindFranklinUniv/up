@@ -4,18 +4,19 @@
     "url": "https://selfservice.rosalindfranklin.edu/Student/Account/Login",
     "icon": "https://icons.duckduckgo.com/ip3/selfservice.rosalindfranklin.edu.ico",
     "slug": "rosalind-franklin-university-network",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 356,
     "timeDay": 256,
     "timeWeek": 337,
     "timeMonth": 331,
     "timeYear": 356,
     "dailyMinutesDown": {
+      "2024-12-21": 2,
       "2024-09-14": 23
     }
   },
@@ -200,7 +201,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-21": 821,
+      "2024-12-21": 869,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
@@ -318,18 +319,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/webpay.rosalindfranklin.edu.ico",
     "slug": "helixcard-web-pay",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.94%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.94%",
     "time": 893,
     "timeDay": 1415,
     "timeWeek": 1062,
     "timeMonth": 904,
     "timeYear": 893,
     "dailyMinutesDown": {
-      "2024-12-21": 24,
+      "2024-12-21": 19,
       "2024-09-14": 40,
       "2024-09-08": 45
     }
@@ -550,9 +551,9 @@
     "url": "https://selfservice.rosalindfranklin.edu/Student/Account/Login",
     "icon": "https://icons.duckduckgo.com/ip3/selfservice.rosalindfranklin.edu.ico",
     "slug": "self-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -561,7 +562,9 @@
     "timeWeek": 254,
     "timeMonth": 245,
     "timeYear": 267,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-21": 0
+    }
   },
   {
     "name": "Tutoring Appointments",

@@ -6,9 +6,9 @@
     "slug": "rosalind-franklin-university-network",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 356,
     "timeDay": 256,
@@ -16,7 +16,7 @@
     "timeMonth": 331,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2024-12-21": 2,
+      "2024-12-21": 15,
       "2024-09-14": 23
     }
   },
@@ -201,7 +201,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-21": 869,
+      "2024-12-21": 882,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
@@ -535,7 +535,7 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.89%",
     "time": 624,
-    "timeDay": 394,
+    "timeDay": 402,
     "timeWeek": 385,
     "timeMonth": 909,
     "timeYear": 624,
@@ -551,19 +551,19 @@
     "url": "https://selfservice.rosalindfranklin.edu/Student/Account/Login",
     "icon": "https://icons.duckduckgo.com/ip3/selfservice.rosalindfranklin.edu.ico",
     "slug": "self-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 227,
-    "timeWeek": 254,
-    "timeMonth": 245,
-    "timeYear": 267,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 322,
+    "timeDay": 5780,
+    "timeWeek": 1639,
+    "timeMonth": 603,
+    "timeYear": 322,
     "dailyMinutesDown": {
-      "2024-12-21": 0
+      "2024-12-21": 13
     }
   },
   {

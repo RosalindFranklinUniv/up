@@ -1,7 +1,7 @@
 url: https://selfservice.rosalindfranklin.edu/Student/Account/Login
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-21T14:27:31.536Z
+status: up
+code: 200
+responseTime: 9526
+lastUpdated: 2024-12-21T14:44:49.027Z
 startTime: 2024-09-04T11:32:22.409Z
 generator: Upptime <https://github.com/upptime/upptime>

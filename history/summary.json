@@ -201,7 +201,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-26": 703,
+      "2024-12-26": 707,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
@@ -497,19 +497,19 @@
     "url": "https://id.polleverywhere.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.polleverywhere.com.ico",
     "slug": "poll-everywhere",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 401,
-    "timeDay": 215,
-    "timeWeek": 380,
-    "timeMonth": 393,
+    "timeDay": 294,
+    "timeWeek": 379,
+    "timeMonth": 392,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2024-12-26": 0
+      "2024-12-26": 4
     }
   },
   {

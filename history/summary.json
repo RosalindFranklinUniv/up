@@ -201,7 +201,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-26": 108,
+      "2024-12-26": 703,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
@@ -353,7 +353,7 @@
     "uptimeYear": "99.99%",
     "time": 936,
     "timeDay": 383,
-    "timeWeek": 411,
+    "timeWeek": 406,
     "timeMonth": 726,
     "timeYear": 936,
     "dailyMinutesDown": {
@@ -497,9 +497,9 @@
     "url": "https://id.polleverywhere.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.polleverywhere.com.ico",
     "slug": "poll-everywhere",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -508,7 +508,9 @@
     "timeWeek": 380,
     "timeMonth": 393,
     "timeYear": 401,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-26": 0
+    }
   },
   {
     "name": "Risk Management",
@@ -534,11 +536,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/us2.concursolutions.com.ico",
     "slug": "sap-concur",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 619,
     "timeDay": 407,
     "timeWeek": 389,

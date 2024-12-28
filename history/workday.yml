@@ -1,7 +1,7 @@
 url: https://login.adaptiveinsights.com/
-status: down
-code: 503
-responseTime: 155
-lastUpdated: 2024-12-28T03:42:23.361Z
+status: up
+code: 200
+responseTime: 476
+lastUpdated: 2024-12-28T03:53:33.381Z
 startTime: 2024-08-30T13:16:17.477Z
 generator: Upptime <https://github.com/upptime/upptime>
